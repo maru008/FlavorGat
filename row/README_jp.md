@@ -52,5 +52,3 @@ GATは、グラフ表現学習のための一般的な手法で、事実上す�
 [PyTorch] pyGAT, Diego Antogniniによって開発されました。
 ライセンス
 MIT
-
-www.DeepL.com/Translator（無料版）で翻訳しました。
